@@ -29,6 +29,8 @@ Minor:Business with Information Technology
 # Certificate of Information Technology,PCEA molo College of Professional Studies
 September 2019-October 2019
 # PROFESSIONAL QUALIFICATION
+March 2024-Current, Structured Query Language, SQL zoo
+Software engineering Code Academy 
 
 
 
