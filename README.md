@@ -26,7 +26,10 @@ I played a key role in guiding students through the mastery of various computer 
 September 2020-December 2023
 Major: Software Engineering 
 Minor:Business with Information Technology
-# Certificate of Information Technology
+# Certificate of Information Technology,PCEA molo College of Professional Studies
+September 2019-October 2019
+# PROFESSIONAL QUALIFICATION
+
 
 
 
