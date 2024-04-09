@@ -18,6 +18,7 @@ Assisted in implementing agricultural activities at gbiack training center.
 Contributed in installing and updating the computers that were in the Gbiack laboratory.
 Engaged in a training program enhancing technical and operating skills.
 Assisted in the making of  curriculum development and helped in documenting notes that had been suggested during the curriculum development week.
+I played a key role in guiding students through the mastery of various computer packages, including Excel spreadsheet management, Word processing, mail merging techniques, and advanced Excel algorithmic functions.
 
 
 
