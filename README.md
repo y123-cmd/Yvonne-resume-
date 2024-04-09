@@ -25,12 +25,33 @@ I played a key role in guiding students through the mastery of various computer 
 # Bachelors of Business Information Technology,Mount Kenya University 
 September 2020-December 2023
 Major: Software Engineering 
-Minor:Business with Information Technology
+Minor:Business with Information Technology.
 # Certificate of Information Technology,PCEA molo College of Professional Studies
 September 2019-October 2019
 # PROFESSIONAL QUALIFICATION
-March 2024-Current, Structured Query Language, SQL zoo
-Software engineering Code Academy 
+March 2024-Current, Structured Query Language, SQL zoo.
+Software engineering Code Academy.
+# SOFT SKILLS 
+Communication: delivered and conscience presentation to audience 
+during the Gbiack volunteer attachment.
+Collaboration: successfully worked with a team of developers to design and develop a gbiack management system.
+Problem solving:identified and resolved a critical bug in the production system to prevent dataloss and downtime.
+Time management: developed and implemented a project management system that increased productivity by 15%.
+# TECH SKILLS 
+C# programming 
+CSS
+Data entry 
+Database management 
+HTML
+Java
+JavaScript 
+Visual studio code 
+SQL
+
+
+
+
+
 
 
 
