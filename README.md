@@ -20,7 +20,14 @@ Engaged in a training program enhancing technical and operating skills.
 Assisted in the making of  curriculum development and helped in documenting notes that had been suggested during the curriculum development week.
 I played a key role in guiding students through the mastery of various computer packages, including Excel spreadsheet management, Word processing, mail merging techniques, and advanced Excel algorithmic functions.
 # technology stack
- sql C# and JavaScript 
+ sql C# and JavaScript
+# EDUCATION BACKGROUND 
+# Bachelors of Business Information Technology,Mount Kenya University 
+September 2020-December 2023
+Major: Software Engineering 
+Minor:Business with Information Technology
+# Certificate of Information Technology
+
 
 
 
