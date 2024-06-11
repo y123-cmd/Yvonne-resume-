@@ -20,7 +20,7 @@ highly motivated software engineer graduate with passion of building a user frie
 •Assisted in the making of  curriculum development and helped in documenting notes that had been suggested during the curriculum development week.
 •I played a key role in guiding students through the mastery of various computer packages, including Excel spreadsheet management, Word processing, mail merging techniques, and advanced Excel algorithmic functions.
 # technology stack
- sql C# and JavaScript
+ sql C# 
 # EDUCATION BACKGROUND 
 # Bachelors of Business Information Technology,Mount Kenya University 
 September 2020-December 2023
